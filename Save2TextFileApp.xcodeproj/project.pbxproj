@@ -16,6 +16,7 @@
 		3F3A26A42BA4D5BA0051C218 /* Save2TextFileAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A26A32BA4D5BA0051C218 /* Save2TextFileAppTests.swift */; };
 		3F3A26AE2BA4D5BA0051C218 /* Save2TextFileAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A26AD2BA4D5BA0051C218 /* Save2TextFileAppUITests.swift */; };
 		3F3A26B02BA4D5BA0051C218 /* Save2TextFileAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3A26AF2BA4D5BA0051C218 /* Save2TextFileAppUITestsLaunchTests.swift */; };
+		3F3A26BD2BA4D88B0051C218 /* fantasy-4033001_640.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F3A26BC2BA4D88B0051C218 /* fantasy-4033001_640.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F3A26A92BA4D5BA0051C218 /* Save2TextFileAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Save2TextFileAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3A26AD2BA4D5BA0051C218 /* Save2TextFileAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Save2TextFileAppUITests.swift; sourceTree = "<group>"; };
 		3F3A26AF2BA4D5BA0051C218 /* Save2TextFileAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Save2TextFileAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F3A26BC2BA4D88B0051C218 /* fantasy-4033001_640.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "fantasy-4033001_640.jpg"; path = "../../../../Downloads/fantasy-4033001_640.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				3F3A26902BA4D5B80051C218 /* ViewController.swift */,
 				3F3A26922BA4D5B80051C218 /* Main.storyboard */,
 				3F3A26952BA4D5BA0051C218 /* Assets.xcassets */,
+				3F3A26BC2BA4D88B0051C218 /* fantasy-4033001_640.jpg */,
 				3F3A26972BA4D5BA0051C218 /* LaunchScreen.storyboard */,
 				3F3A269A2BA4D5BA0051C218 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F3A26962BA4D5BA0051C218 /* Assets.xcassets in Resources */,
+				3F3A26BD2BA4D88B0051C218 /* fantasy-4033001_640.jpg in Resources */,
 				3F3A26992BA4D5BA0051C218 /* Base in Resources */,
 				3F3A26942BA4D5B80051C218 /* Base in Resources */,
 			);
